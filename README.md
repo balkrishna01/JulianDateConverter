@@ -19,7 +19,7 @@ This Python script calculates the Julian day of a given date. The Julian day rep
 
 ### Example
 ````bash
-$ python julian_day_calculator.py
+python julian_day_calculator.py
 ````
 Enter a date (YYYY-MM-DD) or press Enter to use today's date: 2024-08-30
 The Julian day for the date 2024-08-30 is: 243
